@@ -14,3 +14,5 @@ Cultive Flow directly links to the intentional nurturing and development of a sy
 
 * ### My Machine Learning Engineering within Cultive Flow
   * Within Cultive Flow, I see the ideal environment for my machine learning engineering projects and models. It represents the active cultivation of my ML models, from the initial data preparation and rigorous model training to seamless deployment and continuous improvement. This approach ensures that my models not only thrive but also contribute to the effortless flow of valuable insights.
+
+_Copyright (c) 2025 Eeshvar Das (Erik Douglas Ward). All Rights Reserved._
