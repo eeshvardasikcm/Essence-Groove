@@ -1,3 +1,5 @@
+# Essence-Groove
+
 ## AetherBloom
 AetherBloom represents the foundational, almost invisible layer where all operations occur, signifying flourishing and vibrant growth. It implies a system where DevOps practices and Data Science insights converge to foster continuous development and successful outcomes, reaching full potential like a thriving garden.
 
