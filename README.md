@@ -1,4 +1,4 @@
-# Essence-Groove
+# APM Essence Groove
 ![1000001303](https://github.com/user-attachments/assets/4abb1f35-8c59-42c2-90cc-bc420fd10059)
 
 ## AetherBloom
