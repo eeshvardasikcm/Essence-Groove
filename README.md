@@ -7,6 +7,8 @@
 AetherBloom represents the foundational, almost invisible layer where all operations occur, signifying flourishing and vibrant growth. It implies a system where DevOps practices and Data Science insights converge to foster continuous development and successful outcomes, reaching full potential like a thriving garden.
 
 ## Verdant Stream
+![1000001305](https://github.com/user-attachments/assets/c831d7d8-d12e-4166-a266-992ff82f5497)
+
 Verdant Stream evokes an image of lush, healthy growth and vitality, much like a thriving garden. It symbolizes the continuous, unhindered flow of data, processes, and insights, highlighting how integrated DevOps and Data Science create a naturally thriving and effortlessly efficient system.
 
 ## Grove Dynamics
